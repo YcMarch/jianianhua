@@ -1,5 +1,6 @@
 /*YCMarch 2018-3-19*/
 .inner{width: 1200px;margin: 0 auto;}
+em{font-style: normal;}
 /* ---- subbanner    begin   --- */
 .subbanner{height: 283px;background: no-repeat center;text-align: center;padding-top: 108px;box-sizing: border-box;}
 .subbanerTit{font-size: 42px;color: #fff;font-weight: bold;text-shadow: 2px 3px 4px #563500;}
@@ -9,7 +10,7 @@
 
 /*  ----  jsjnhCon   begin   -----*/
 
-.jsjnhCon .jsjnhCon-1{padding: 70px 0;}
+.jsjnhCon-1{padding: 70px 0;}
 .jsjnhCon .jsjnhCon-1:nth-child(even){background: #f8f8f8;}
 .jsjnhCon-1Tit{float: left;}
 .jsjnhCon-1Tit em{font-style: normal;padding-right: 30px;position: relative;font-size: 24px;color: #333;}
@@ -18,11 +19,100 @@
 .moreBtn{float: right;font-size: 14px;color: #333;background: url("../images/morebg_09.png") no-repeat right center;padding-right: 18px;position: relative;top: 30px;}
 .jsjnhCon-1Top{overflow: hidden;border-bottom: 1px #e5e5e5 solid;padding-bottom: 20px;}
 
-.jylcList{overflow: hidden;}
-.jylcList li{width: 570px;height: 322px;overflow: hidden;float: left;position: relative;}
-.jylcLTit{position: absolute;bottom: 0;left: 0;width: 100%;height: 64px;line-height: 64px;background: rgba(0,0,0,.5);color: #fff;padding: 0 40px;box-sizing: border-box;}
+.jylcList{overflow: hidden;margin-left: -58px;padding-top: 45px;}
+.jylcList li{width: 570px;height: 322px;overflow: hidden;float: left;position: relative;margin-left: 58px;}
+.jylcLTit{position: absolute;bottom: 0;left: 0;width: 100%;height: 64px;line-height: 64px;background: rgba(0,0,0,.5);color: #fff;padding: 0 40px;box-sizing: border-box;overflow: hidden;}
 .jylcLSign{width: 80px;height: 80px;position: absolute;right: 0;top: 0;background: #f09400;color: #fff;font-size: 18px;text-align: center;box-sizing: border-box;padding: 15px 20px 0 20px;}
 
+.xfwmCon{overflow: hidden;padding-top: 10px;}
+.xfwmConLeft{float: left;width: 573px;}
+.xfwmConRight{float: right;width: 587px;}
+.xfwmConTit{font-size: 18px;height: 54px;line-height: 54px;}
+.xfwmConTit a{color: #333;}
+.xfwmConTit .moreBtn{position: relative;top: 3px;}
+.xfwmConRWrap{background: #fff;box-sizing: border-box;padding: 25px 30px 0 30px;height: 372px;}
+.whcyImg{width: 197px;height: 128px;overflow: hidden;float: left;margin-right: 25px;}
+.whcyImg img{display: block;}
+.whcyRight{overflow: hidden;}
+.whcyRightTit{height: 30px;line-height: 30px;overflow: hidden;font-size: 18px;color: #333;margin-top: -5px;}
+.whcyRightBri{line-height: 25px;height: 75px;overflow: hidden;margin-bottom: 5px;font-size: 14px;color: #333;margin-top: 5px;}
+.whcyRightTime{font-size: 14px;color: #333;}
+.xfwmConRWrapTop{padding-bottom: 20px;border-bottom: 1px #c9c9c9 solid;margin-bottom: 10px;}
+.xfwmConRWrapList li a{font-size: 14px;color: #333;}
+.xfwmConRWrapList li span{float: right;padding-left: 15px;height: 35px;line-height: 35px;}
+.xfwmConRWrapList li em{overflow: hidden;display: block;height: 35px;line-height: 35px;text-overflow:ellipsis;white-space:nowrap;}
+.xfwmConRWrapTop:hover .whcyRightTit{color: #f09400;}
+.xfwmConRWrapList li:hover a{color: #f09400;}
+
+/* 本例子css */
+.xfwmConLeftList{ width:572px; height:370px; overflow:hidden; position:relative;  }
+.xfwmConLeftList .bd{ position:relative; height:100%; z-index:0;   }
+.xfwmConLeftList .bd img{ display:block;  }
+
+/* 下面是前/后按钮代码，如果不需要删除即可 */
+.xfwmConLeftList .prev{ position:absolute; right:50px; bottom:0; display:block;width: 50px;height: 50px;background: #fbab2a url("../images/leftBtn_03.png") no-repeat center;}
+.xfwmConLeftList .next{ position:absolute; right:0; bottom:0;  display:block; width: 50px;height: 50px;background: #fbab2a url("../images/rightBtn_03.png") no-repeat center; }
+.xfwmConLeftList .prev:hover,
+.xfwmConLeftList .next:hover{ background-color: #f19500;}
+
+.whccTit{width: 100%;position: absolute;bottom: 0;left: 0;height: 50px;line-height: 50px;color: #fff;background: rgba(0,0,0,.8);padding: 0 20px;}
+.jsjnhCon-3{padding-top: 20px;}
+.zstjBottmImg{float: left;}
+.zstjBottm{overflow: hidden;}
+
+/* 本例子css */
+.zstjTop{ width:1200px;  position:relative;  margin-bottom: 23px; }
+.zstjTop .hd .prev{ display:block;  width:30px; height:70px;   overflow:hidden;position: absolute;left: -43px;top: 50%;background: url("../images/leftbtn.jpg") no-repeat left center;margin-top: -35px;cursor: pointer;}
+.zstjTop .hd .prev:hover{background-position: right center;}
+.zstjTop .hd .next{ display:block;  width:30px; height:70px;   overflow:hidden;position: absolute;right: -43px;top: 50%;background: url("../images/rightBtn.jpg") no-repeat right center;margin-top: -35px;cursor: pointer;}
+.zstjTop .hd .next:hover{background-position: left center;}
+.zstjTop .bd{ width:1200px; overflow:hidden;  }
+.zstjTop .bd ul li{ float:left; _display:inline; overflow:hidden; width: 227px; margin-right: 16px; }
+.zstjLbImg{height: 170px;overflow: hidden;}
+.zstjLbBotm{height: 130px;background: #f8f8f8;padding: 17px;box-sizing: border-box;}
+.zstjLbBTit{font-size: 16px;color: #000;height: 25px;line-height: 25px;overflow: hidden;}
+.zstjLbBBri{line-height: 20px;height: 40px;overflow: hidden;margin: 10px 0;font-size: 12px;color: #666;}
+.zstjLbBTime{font-size: 12px;color: #666;}
+
+.cyxwCon{overflow: hidden;padding-top: 10px;}
+.cyxwCon .xfwmConRight{float: left;width: 580px;}
+.cyxwCon .xfwmConRight .xfwmConRWrap{height: 340px;box-sizing: border-box;}
+
+.cyxwConRight{float: right;width: 580px;}
+.cyxwConRList{margin-left: -16px;overflow: hidden;}
+.cyxwConRList li{width: 280px;float: left;margin-left: 18px;background: #fff;height: 340px;}
+.cyxwConRLImg{width: 280px;height: 185px;overflow: hidden;}
+.cyxwConRLBotm{padding:10px 20px;box-sizing: border-box;}
+.wccpTit{height: 35px;line-height: 35px;overflow: hidden;font-size: 20px;color: #000;}
+.wccpBri{font-size: 14px;color: #666;line-height: 25px;height: 50px;overflow: hidden;margin-bottom: 10px;}
+.cyxwConRLBbottom{padding-top: 10px;border-top: 2px #efefef solid;position: relative;}
+.wccpTime{font-size: 14px;color: #666;}
+.gwcBtn{display: block;width: 25px;height: 25px;background: #f19500 url("../images/gwcico_03.png") no-repeat center;border-radius: 50%;position: absolute;right: 0;top: 50%;margin-top: -10px;}
+
+
+.nrhCLeft{float: left;width: 375px;}
+.nrhCMid{float: left;width: 390px;margin-left: 35px;}
+.nrhCRight{float: right;width: 372px;}
+.nrhCon .jsjnhCon-1Top{margin-bottom: 20px;}
+.nrhCLList{margin-left: -5px;}
+.nrhCLList li{width: 185px;height: 116px;background: #f5b040;float: left;margin-left: 5px;margin-bottom: 5px;display: table;vertical-align: middle;text-align: center;position: relative;overflow: hidden;}
+.nrhCLList li:before{content: '';width: 130%;height: 0;background: #e48d00;position: absolute;top: 63px;left: -17px;transform: rotate(211deg);}
+.nrhCLList li:hover:before{height: 100%;transform: rotate(180deg);top: 0;left: 0;}
+.nrhCLList li a{display: table-cell;vertical-align: middle;position: relative;z-index: 2;}
+.nrhCL-L-Tit{font-size: 14px;color: #fff;}
+.nrhCL-L-Ico{margin-bottom: 10px;}
+.nrhCon a.moreBtn{float: left;font-size: 14px;color: #333;position: relative;top: 15px;}
+.nrhCon a.moreBtn:hover{color: #f5b040;}
+
+.nrhCR-Con{background: #f5f5f5;height: 355px;}
+
 /*  ----  jsjnhCon   END     -----*/
+
+
+
+a,*:before,*:after,.jylcList li img,.whcyImg img,.whcyRight *,.zstjLbImg img
+{-webkit-transition:all 0.4s ease-in-out;-moz-transition: all 0.4s ease-in-out;-ms-transition: all 0.4s ease-in-out;-o-transition: all 0.4s ease-in-out;transition: all 0.4s ease-in-out;  }
+.jylcList li:hover img,.xfwmConRWrapTop:hover .whcyImg img,.zstjTop .bd ul li:hover .zstjLbImg img
+{transform:scale(1.08);-webkit-transform:scale(1.08);-moz-transform:scale(1.08);-o-transform:scale(1.08);-ms-transform:scale(1.08);}
 
 
