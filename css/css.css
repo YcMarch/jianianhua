@@ -324,14 +324,17 @@ em{font-style: normal;}
 .xmfbCon{}
 .xmfbConLeft{width: 1037px;height: 680px;background: url("../images/map_06.jpg") no-repeat center;float: left;background-size: 100%;position: relative;}
 .xmfbConRight{float: right;width: 534px;box-shadow: 0 0 10px #aaa;position: relative;z-index: 9;box-sizing: border-box;padding: 0 50px;height: 595px;}
-.xmfbConRight:before{content: '';width: 21px;height: 31px;background: url("../images/sanjiao_12.png") no-repeat center;position: absolute;left: -21px;top: 100px;}
+.xmfbConRight:before{content: '';width: 21px;height: 31px;background: url("../images/sanjiao_12.png") no-repeat center;position: absolute;left: -21px;top: 100px;opacity: .7;}
 .xmfbConRight-1{}
-.xmfbCon{min-width: 1715px;}
+/*.xmfbCon{min-width: 1715px;}*/
 .dibiao{width: 48px;height: 62px;background: url("../images/dbbg_16.png") no-repeat center;position: absolute;left: 0;top:0;cursor: pointer;}
 .dibiao:before{content: '';width: 33px;height: 33px;background: url("../images/dbbg1_16.png") no-repeat center;position: absolute;left: 4px;bottom: -10px;animation: dbAn 1.5s linear 1.5s infinite alternate;}
 .xmfbConLeft .dibiao:nth-child(odd):before{animation: dbAn 1s linear 1s infinite alternate;}
 .dibiao:hover:before{display: none;}
 .dibiaoNr{width: 40px;text-align: center;height: 50px;line-height: 50px;overflow: hidden;font-size: 12px;color: #ef1717;}
+.dibiaoB .dibiaoNr{color: #ffb749;}
+.dibiaoC .dibiaoNr{color: #67ba4f;}
+.dibiaoD .dibiaoNr{color: #17bfef;}
 .xinjiang{left:220px;top: 136px;}
 .xizang{left:240px;top: 300px;}
 .gansu{left:420px;top: 190px;}
@@ -372,6 +375,7 @@ em{font-style: normal;}
 .xmfbConRight-1 .bd ul li{ float:left; _display:inline; overflow:hidden;  }
 .xmfbConR-1Tit{font-size: 24px;color: #333;font-weight: bold;height: 75px;line-height: 75px;margin-top: 20px;}
 .xmfbConR-1Img{margin-bottom: 27px;}
+.xmfbConR-1Img img{width: 100%;}
 .xmfbConR-1Con{font-size: 18px;color: #419d9e;padding-bottom: 20px;border-bottom: 1px #ddd solid;margin-bottom: 25px;}
 .xmfbConR-1Cp1 span{display: inline-block;width: 45%;line-height:35px;height: 35px;}
 .xmfbConR-1Cp2{line-height:35px;height: 35px;}
@@ -393,6 +397,69 @@ a,*:before,*:after,.jylcList li img,.whcyImg img,.whcyRight *,.zstjLbImg img,.mo
 {
     from {opacity: 1;}
     to {opacity: .3;}
+}
+
+@media only screen and (max-width:1440px ) {
+
+    .header .headNav{padding: 0 80px 0 40px;}
+    .roundabout-moveable-item .indexPart2ConTop{font-size: 25px;height: 80px;}
+    .indexP2C-B1CTit{font-size: 18px;}
+    .indexP2C-B1CImg img{width: 100px;height: 100px;}
+    .roundabout-moveable-item .indexPart2ConBotm1{height: 290px;}
+    .roundabout-in-focus .indexPart2ConBotm{height: 340px;}
+    .roundabout-in-focus .indexP2C-BTopBri{height: 102px;}
+    .roundabout-holder{height: 340px;width: 1200px;}
+    .indexPart2{padding-top: 5%;}
+    .roundabout-in-focus .indexP2C-BTopTit{font-size: 20px;}
+    .roundabout-in-focus .indexP2C-BTopBri{font-size: 14px;}
+    .roundabout-in-focus .indexPart2ConTop a span{padding-bottom: 15px;}
+    .indexRight li{height: 60px;}
+    .indexRight li img{width: 32px;height: 32px;}
+    .indexRTit{font-size: 12px;}
+    .xmfbConLeft{width: 700px;height: 450px;}
+    .xmfbConRight{padding: 0 20px;width: 430px;height: 400px;overflow: hidden;}
+    .xmfbConR-1Tit{font-size: 16px;height: 30px;line-height: 30px;}
+    .xmfbConR-1Img{width: 390px;overflow: hidden;margin-bottom: 15px;height: 150px;}
+    .xmfbConR-1Con{font-size: 14px;padding-bottom: 10px;margin-bottom: 10px;}
+    .xmfbTit{font-size: 24px;margin-bottom: 10px;}
+    .indexPart3{padding-top: 5%;}
+    .xmfbTit span{font-size: 24px;}
+    .indexHead .head{height: 75px;line-height: 75px;}
+    .indexHead .headNav li a{font-size: 16px;}
+    .indexHead .headfx{padding-top: 22px;}
+    .xinjiang{left: 150px;top: 45px;}
+    .xizang{left: 140px;top: 180px;}
+    .gansu{left: 257px;top:93px;}
+    .qinghai{left: 235px;top: 152px;}
+    .neimenggu{left: 360px;top: 94px;}
+    .shanxi{left: 380px;top: 160px;}
+    .shanxisx1{left: 420px;top: 145px;}
+    .sichuan{left: 300px;top: 200px;}
+    .chongqing{left: 360px;top: 220px;}
+    .henan{left: 444px;top: 165px;}
+    .hebei{left: 457px;top: 100px;}
+    .yunnan{left: 290px;top: 260px;}
+    .guizhou{left: 400px;top: 240px;}
+    .hubei{left: 473px;top: 198px;}
+    .guangxi{left: 420px;top: 280px;}
+    .guangdong{left: 480px;top: 277px;}
+    .fujian{left: 510px;top: 247px;}
+    .heilongjiang{left: 607px;top: 0px;}
+    .jilin{left: 538px;top: 40px;}
+    .beijing{left: 487px;top: 78px;}
+    .tianjin{left: 480px;top: 95px;}
+    .liaoning{left: 555px;top: 80px;}
+    .shandong{left: 515px;top: 135px;}
+    .jiangsu{left: 550px;top: 165px;}
+    .jiangxi{left: 483px;top: 220px;}
+    .anhui{left: 506px;top: 173px;}
+    .zhejiang{left: 560px;top: 200px;}
+    .taiwan{left: 570px;top: 250px;}
+    .xmfbConR-1Cp1 span{height: 25px;line-height: 25px;}
+    .xmfbConR-1Bri{height: 60px;}
+    .footLBox{width: 210px;height: 140px;}
+
+
 }
 
 

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6947f482-affb-449d-b294-828d01b9bea7" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/css/css.css" afterPath="$PROJECT_DIR$/css/css.css" />
+      <change beforePath="$PROJECT_DIR$/乐活嘉年华引导-精选图集.html" afterPath="$PROJECT_DIR$/乐活嘉年华引导-精选图集.html" />
+      <change beforePath="$PROJECT_DIR$/建设嘉年华.html" afterPath="$PROJECT_DIR$/建设嘉年华.html" />
+      <change beforePath="$PROJECT_DIR$/认识嘉年华引导页.html" afterPath="$PROJECT_DIR$/认识嘉年华引导页.html" />
       <change beforePath="$PROJECT_DIR$/首页.html" afterPath="$PROJECT_DIR$/首页.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -79,10 +83,7 @@
         <option value="G:/工作/前端/华昊/js效果/PC端/多功能基础页面效果/131106387299177/demo/2.0-focus - 副本.html" />
         <option value="G:/工作/前端/华昊/js效果/PC端/多功能基础页面效果/131106387299177/demo/3.0-picScroll-left - 副本.html" />
         <option value="G:/工作/前端/华昊/js效果/PC端/多功能基础页面效果/131106387299177/demo/3.0-picScroll-left - 副本 (7).html" />
-        <option value="$PROJECT_DIR$/建设嘉年华.html" />
-        <option value="$PROJECT_DIR$/认识嘉年华引导页.html" />
         <option value="G:/工作/前端/华昊/js效果/响应式/遮罩层/venobox/index.html" />
-        <option value="$PROJECT_DIR$/乐活嘉年华引导-精选图集.html" />
         <option value="G:/工作/前端/华昊/js效果/PC端/多功能基础页面效果/131106387299177/demo/3.0-picScroll-left - 副本 (4).html" />
         <option value="$PROJECT_DIR$/videoTc.html" />
         <option value="$PROJECT_DIR$/photoTc.html" />
@@ -98,8 +99,11 @@
         <option value="$PROJECT_DIR$/js/jquery.fullPage.css" />
         <option value="$PROJECT_DIR$/script/jquery.fullPage.min.js" />
         <option value="$PROJECT_DIR$/script/index.js" />
-        <option value="$PROJECT_DIR$/首页.html" />
         <option value="$PROJECT_DIR$/css/css.css" />
+        <option value="$PROJECT_DIR$/首页.html" />
+        <option value="$PROJECT_DIR$/认识嘉年华引导页.html" />
+        <option value="$PROJECT_DIR$/建设嘉年华.html" />
+        <option value="$PROJECT_DIR$/乐活嘉年华引导-精选图集.html" />
       </list>
     </option>
   </component>
@@ -109,7 +113,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1932" />
@@ -140,17 +144,12 @@
               <item name="中国农业嘉年华前端" type="b2602c69:ProjectViewProjectNode" />
               <item name="中国农业嘉年华前端" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="中国农业嘉年华前端" type="b2602c69:ProjectViewProjectNode" />
-              <item name="中国农业嘉年华前端" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,16 +201,18 @@
       <workItem from="1521866703833" duration="23109000" />
       <workItem from="1521944589974" duration="29701000" />
       <workItem from="1521977105365" duration="7665000" />
+      <workItem from="1521985201207" duration="8785000" />
+      <workItem from="1521997508988" duration="522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87373000" />
+    <option name="totallyTimeSpent" value="96680000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13487881" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18967333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -258,7 +259,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/工作/前端/华昊/杨春/2017/11月/明心心理/明心心理前端/css/css.css" />
     <entry file="file://F:/第三组/0320 郭晓华/拖拽1.html" />
     <entry file="file://E:/学习/秒味课堂/秒味上课后文件夹/39-面向对象拖拽.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -275,56 +275,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://G:/工作/前端/华昊/js效果/响应式/遮罩层/venobox/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="58" column="28" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/乐活嘉年华引导-精选图集.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="17" column="54" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/工作/前端/华昊/chun/项目ll/AB 切图模板/切图 一般/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1300">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/工作/前端/华昊/js效果/PC端/多功能基础页面效果/131106387299177/demo/3.0-picScroll-left - 副本 (4).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="39" column="68" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="39" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/认识嘉年华引导页.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="553" column="21" lean-forward="true" selection-start-line="543" selection-start-column="12" selection-end-line="553" selection-end-column="21" />
-          <folding>
-            <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#1;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://G:/工作/前端/华昊/js效果/响应式/遮罩层/venobox/index.html" />
+    <entry file="file://G:/工作/前端/华昊/chun/项目ll/AB 切图模板/切图 一般/index.html" />
+    <entry file="file://G:/工作/前端/华昊/js效果/PC端/多功能基础页面效果/131106387299177/demo/3.0-picScroll-left - 副本 (4).html" />
     <entry file="file://$USER_HOME$/Desktop/jQueryVideo.js6.6.2/video6.6.2.js/index.html" />
     <entry file="file://$PROJECT_DIR$/videoTc.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -337,35 +290,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="896">
           <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/乐活嘉年华引导-热门视频.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-576">
-          <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/建设嘉年华.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="385" column="34" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="684" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/乐活嘉年华.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="25" column="60" lean-forward="false" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -392,9 +316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8208">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -406,25 +327,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/工作/前端/华昊/2016年/三月份/山姆大叔/前端切图/山姆大叔/js/jquery.fullPage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/工作/前端/华昊/2016年/三月份/山姆大叔/前端切图/山姆大叔/js/jquery.fullPage.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="8" column="439" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="435" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://G:/工作/前端/华昊/2016年/三月份/山姆大叔/前端切图/山姆大叔/js/jquery.fullPage.css" />
+    <entry file="file://G:/工作/前端/华昊/2016年/三月份/山姆大叔/前端切图/山姆大叔/js/jquery.fullPage.min.js" />
     <entry file="file://$PROJECT_DIR$/script/js.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -432,98 +340,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="0" column="1185" lean-forward="true" selection-start-line="0" selection-start-column="1185" selection-end-line="0" selection-end-column="1185" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/工作/前端/华昊/2016年/三月份/山姆大叔/前端切图/山姆大叔/js/web.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/工作/前端/华昊/2016年/三月份/山姆大叔/前端切图/山姆大叔/html4.01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2902">
-          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/工作/前端/华昊/js效果/PC端/叠加轮播图/手动3D旋转/js/jquery.roundabout2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1620">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/工作/前端/华昊/js效果/PC端/叠加轮播图/手动3D旋转/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="53" column="28" lean-forward="false" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/工作/前端/华昊/js效果/PC端/叠加轮播图/jQuery3Dlbt342201703302246/jQuery3Dlbt/css/css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="38" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/工作/前端/华昊/js效果/PC端/叠加轮播图/jQuery3Dlbt342201703302246/jQuery3Dlbt/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://G:/工作/前端/华昊/2016年/三月份/山姆大叔/前端切图/山姆大叔/js/web.js" />
+    <entry file="file://G:/工作/前端/华昊/2016年/三月份/山姆大叔/前端切图/山姆大叔/html4.01.html" />
+    <entry file="file://G:/工作/前端/华昊/js效果/PC端/叠加轮播图/手动3D旋转/js/jquery.roundabout2.js" />
+    <entry file="file://G:/工作/前端/华昊/js效果/PC端/叠加轮播图/手动3D旋转/demo.html" />
+    <entry file="file://G:/工作/前端/华昊/js效果/PC端/叠加轮播图/jQuery3Dlbt342201703302246/jQuery3Dlbt/css/css.css" />
+    <entry file="file://G:/工作/前端/华昊/js效果/PC端/叠加轮播图/jQuery3Dlbt342201703302246/jQuery3Dlbt/index.html" />
     <entry file="file://$PROJECT_DIR$/js/jquery.roundabout.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="261" column="43" lean-forward="false" selection-start-line="261" selection-start-column="43" selection-end-line="261" selection-end-column="43" />
-          <folding>
-            <marker date="1521971132383" expanded="true" signature="16080:16186" ph="..." />
-            <marker date="1521971132383" expanded="true" signature="16231:16268" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/工作/前端/华昊/js效果/PC端/多功能基础页面效果/131106387299177/demo/3.0-picScroll-left - 副本 (5).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="766">
-          <caret line="40" column="63" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="40" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/工作/前端/华昊/js效果/PC端/二级菜单+选项卡/选项卡.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://G:/工作/前端/华昊/js效果/PC端/多功能基础页面效果/131106387299177/demo/3.0-picScroll-left - 副本 (5).html" />
+    <entry file="file://G:/工作/前端/华昊/js效果/PC端/二级菜单+选项卡/选项卡.html" />
     <entry file="file://$PROJECT_DIR$/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="139" column="1" lean-forward="false" selection-start-line="139" selection-start-column="1" selection-end-line="139" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/工作/前端/华昊/2016年/三月份/山姆大叔/前端切图/山姆大叔/js/jquery.fullPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3253">
-          <caret line="131" column="32" lean-forward="true" selection-start-line="131" selection-start-column="32" selection-end-line="131" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://G:/工作/前端/华昊/2016年/三月份/山姆大叔/前端切图/山姆大叔/js/jquery.fullPage.js" />
     <entry file="file://$PROJECT_DIR$/script/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -531,7 +377,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="1316" column="65" lean-forward="true" selection-start-line="1316" selection-start-column="65" selection-end-line="1316" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -539,62 +384,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="203" column="1" lean-forward="false" selection-start-line="203" selection-start-column="1" selection-end-line="203" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/css.css">
+    <entry file="file://G:/工作/前端/华昊/杨春/2017/11月/明心心理/明心心理前端/css/css.css" />
+    <entry file="file://G:/工作/前端/华昊/杨春/2017/10 月/嘉友国际/嘉友国际前端/css/css.css" />
+    <entry file="file://$PROJECT_DIR$/乐活嘉年华.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-          <folding />
+        <state relative-caret-position="219">
+          <caret line="24" column="57" lean-forward="true" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/首页.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="1466" column="27" lean-forward="false" selection-start-line="1466" selection-start-column="18" selection-end-line="1466" selection-end-column="27" />
+        <state relative-caret-position="696">
+          <caret line="1473" column="7" lean-forward="false" selection-start-line="1473" selection-start-column="7" selection-end-line="1473" selection-end-column="7" />
           <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#2;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#2;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#2;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#7;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#8;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#9;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#10;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#11;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#12;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#13;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#14;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#15;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#16;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#17;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#18;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#19;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#20;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#21;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#22;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#23;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#24;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#25;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#26;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#27;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -656,6 +484,51 @@
             <element signature="n#div#1;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/认识嘉年华引导页.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1266">
+          <caret line="99" column="27" lean-forward="false" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/建设嘉年华.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-508">
+          <caret line="500" column="18" lean-forward="false" selection-start-line="500" selection-start-column="18" selection-end-line="500" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/乐活嘉年华引导-精选图集.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3596">
+          <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/乐活嘉年华引导-热门视频.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3277">
+          <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="336" column="33" lean-forward="false" selection-start-line="336" selection-start-column="33" selection-end-line="336" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
