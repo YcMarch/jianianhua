@@ -7,6 +7,8 @@ em{font-style: normal;}
 .subbanerTit em{display: block;font-style: normal;font-size: 36px;text-transform: uppercase;font-weight: normal;opacity: .5;text-shadow:none;}
 /* ---- subbanner    END     --- */
 
+.indexHead{position: fixed;top: 0;left: 0;z-index: 9999;width: 100%;background: #fff;box-shadow: 0 0 10px #aaa;}
+
 
 /*  ----  jsjnhCon   begin   -----*/
 
@@ -258,6 +260,118 @@ em{font-style: normal;}
 .vjs-poster{background-size: 100%;}
 
 /*乐活嘉年华   END */
+
+/*  首页  */
+
+.xmfbTit{text-align: center;font-size: 48px;position: relative;margin-bottom: 55px;}
+.xmfbTit:before{content: '';width: 34%;height: 1px;position: absolute;left: 0;top: 50%;background: #e5e5e5;}
+.xmfbTit:after{content: '';width: 34%;height: 1px;position: absolute;right: 0;top: 50%;background: #e5e5e5;}
+.xmfbTit a{color: #333;}
+.xmfbTit span{display: block;font-size: 30px;color: #8c8c8c;}
+.footLeft{background: #eeb55a;position: fixed;bottom: 0;left: 0;padding: 10px;}
+.footLBox{width: 318px;height: 156px;background: url("../images/footlBbg_06.jpg") no-repeat center;border: 1px #edc98b solid;text-align: center;position: relative;}
+.footLBImg{padding-top: 34px;padding-bottom: 10px;}
+.footLBTit{font-size: 14px;color: #fff;}
+.djtpBtn{display: inline-block;width: 103px;height: 26px;line-height: 26px;text-align: center;color: #fff;border: 1px #fff dashed;margin-top: 15px;}
+.footClose{display: block;width: 10px;height: 10px;position: absolute;right: 15px;top: 15px;background: url("../images/close_06.png") no-repeat center;cursor: pointer;}
+
+/*indexPart2*/
+
+.indexPart2{padding: 3% 5% 0 5%;}
+
+/**********roundabout**********/
+.roundabout_box {height:587px;width:1710px;/*margin:40px auto 20px auto;*/ margin: 0 auto;overflow: hidden;}
+.roundabout-holder{list-style:none;width:1315px;height:425px;margin:0 auto;}
+.roundabout-moveable-item{font-size:12px!important;height:425px;width:650px;cursor:pointer;background:#f9f9f9;}
+.roundabout-in-focus{cursor:auto;border-left:1px #fff solid;border-right:1px #fff solid;}
+.roundabout-in-focus000:hover{-webkit-box-shadow:0px 0px 20px #787878;-moz-box-shadow:0px 0px 20px #787878;background:#f9f9f9;}
+.roundabout-holder .text{color:#999;}
+.roundabout-in-focus000:hover span{display:inline;position:absolute;bottom:5px;right:5px;padding:8px 20px;background:#f9f9f9;color:#3366cc;z-index:999;-webkit-border-top-left-radius:5px;-moz-border-radius-topLeft:5px;border-left:1px solid #aaaaaa;border-top:1px solid #aaaaaa;}
+.roundabout a:active, .roundabout a:focus, .roundabout a:visited{outline:none;text-decoration:none;}
+
+.roundabout-moveable-item .indexPart2ConTop{height: 110px;background: #929291;color: #fff;font-size: 36px;text-align: center;display: table;vertical-align: middle;width: 100%;}
+.roundabout-moveable-item .indexPart2ConTop a{display: table-cell;vertical-align: middle;color: #fff;width: 100%;}
+.roundabout-moveable-item .indexPart2ConTop a span{display: block;text-align: center;position: relative;width: 100%;}
+.roundabout-moveable-item .indexPart2ConBotm{background: #fff;padding: 0 55px;height: 426px;display: none;}
+.roundabout-moveable-item .indexPart2ConBotm1Box{display: block;width: 100%;}
+.roundabout-moveable-item .indexPart2ConBotm1{background: #eee;height: 426px;width: 100%;display: table;vertical-align: middle;text-align: center;}
+.roundabout-moveable-item .indexPart2ConBotm1Con{display: table-cell;vertical-align: middle;}
+
+.roundabout-in-focus .indexPart2ConBotm1Box{display: none;}
+.roundabout-in-focus .indexPart2ConTop{height: 160px;background: #f8b107;color: #fff;font-size: 42px;text-align: center;display: table;vertical-align: middle;width: 100%;}
+.roundabout-in-focus .indexPart2ConTop a{display: table-cell;vertical-align: middle;color: #fff;width: 100%;}
+.roundabout-in-focus .indexPart2ConTop a span{display: block;padding-bottom: 25px;text-align: center;position: relative;width: 100%;}
+.roundabout-in-focus .indexPart2ConTop a span:before{content: '';width: 70px;height: 2px;background: #fff;position: absolute;left: 50%;bottom: 0;margin-left: -35px;}
+.roundabout-in-focus .indexPart2ConBotm{background: #fff;padding: 0 55px;height: 426px;display: block;}
+.roundabout-in-focus .indexP2C-BTop{margin-bottom: 60px;}
+.roundabout-in-focus .indexP2C-BTopTit{font-size: 24px;color: #000;height: 70px;line-height: 70px;}
+.roundabout-in-focus .indexP2C-BTopBri{line-height: 34px;height: 136px;overflow: hidden;font-size: 18px;color: #666;overflow: hidden;}
+.roundabout-in-focus .indexP2C-BList a{display: inline-block;width: 146px;height: 45px;line-height: 45px;text-align: center;background: #eeeeee;font-size: 16px;}
+.roundabout-in-focus .indexP2C-BList a span{display: inline-block;padding-right: 50px;position: relative;}
+.roundabout-in-focus .indexP2C-BList a span:before{content: '';background: url("../images/jtbg_05.png");width: 8px;height: 15px;position: absolute;right: 0;top: 50%;margin-top: -7.5px;}
+
+/*indexPart2   END  */
+
+
+
+
+.indexPart3{padding: 4% 5% 0 5%;}
+.xmfbCon{}
+.xmfbConLeft{width: 1037px;height: 680px;background: url("../images/map_06.jpg") no-repeat center;float: left;background-size: 100%;position: relative;}
+.xmfbConRight{float: right;width: 534px;box-shadow: 0 0 10px #aaa;position: relative;z-index: 9;box-sizing: border-box;padding: 0 50px;height: 595px;}
+.xmfbConRight:before{content: '';width: 21px;height: 31px;background: url("../images/sanjiao_12.png") no-repeat center;position: absolute;left: -21px;top: 100px;}
+.xmfbConRight-1{}
+.xmfbCon{min-width: 1715px;}
+.dibiao{width: 48px;height: 62px;background: url("../images/dbbg_16.png") no-repeat center;position: absolute;left: 0;top:0;cursor: pointer;}
+.dibiao:before{content: '';width: 33px;height: 33px;background: url("../images/dbbg1_16.png") no-repeat center;position: absolute;left: 4px;bottom: -10px;}
+.dibiaoNr{width: 40px;text-align: center;height: 50px;line-height: 50px;overflow: hidden;font-size: 12px;color: #ef1717;}
+.xinjiang{left:220px;top: 136px;}
+.xizang{left:240px;top: 300px;}
+.gansu{left:420px;top: 190px;}
+.qinghai{left:405px;top: 250px;}
+.sichuan{left:500px;top: 330px;}
+.yunnan{left:450px;top: 410px;}
+.neimenggu{left:585px;top: 150px;}
+.shanxi{left:612px;top: 250px;}
+.chongqing{left:590px;top: 326px;}
+.guizhou{left:570px;top: 380px;}
+.guangxi{left:630px;top: 430px;}
+.shanxisx1{left:660px;top: 215px;}
+.henan{left:674px;top: 275px;}
+.hubei{left:663px;top: 348px;}
+.guangdong{left:700px;top: 417px;}
+.heilongjiang{left:837px;top: 50px;}
+.jilin{left:858px;top: 100px;}
+.liaoning{left:815px;top: 136px;}
+.beijing{left:733px;top: 148px;}
+.hebei{left:687px;top: 166px;}
+.shandong{left:755px;top: 245px;}
+.jiangsu{left:800px;top: 265px;}
+.anhui{left:766px;top: 313px;}
+.zhejiang{left:819px;top: 340px;}
+.jiangxi{left:733px;top: 340px;}
+.fujian{left:790px;top: 397px;}
+.taiwan{left:850px;top: 410px;}
+.tianjin{left:734px;top: 185px;}
+
+.xmfbConRight-1 .hd{ overflow:hidden;  text-align: center; }
+.xmfbConRight-1 .hd .prev,.xmfbConRight-1 .hd .next{   width:5px; height:9px; float:right; margin-right:5px; margin-top:10px;  overflow:hidden;
+    cursor:pointer; background:url("images/arrow.png") no-repeat;display:none;}
+.xmfbConRight-1 .hd ul{ overflow:hidden; zoom:1; margin-top:20px; display: inline-block;}
+.xmfbConRight-1 .hd ul li{ display: inline-block; width:35px; height:3px; overflow:hidden; margin-right:5px; text-indent:-999px; cursor:pointer; background: #7d7d7d; margin-left: 5px;}
+.xmfbConRight-1 .hd ul li.on{ background: #f19500;}
+.xmfbConRight-1 .bd{ /*padding:10px; */  }
+.xmfbConRight-1 .bd ul{ overflow:hidden; zoom:1; }
+.xmfbConRight-1 .bd ul li{ float:left; _display:inline; overflow:hidden;  }
+.xmfbConR-1Tit{font-size: 24px;color: #333;font-weight: bold;height: 75px;line-height: 75px;margin-top: 20px;}
+.xmfbConR-1Img{margin-bottom: 27px;}
+.xmfbConR-1Con{font-size: 18px;color: #419d9e;padding-bottom: 20px;border-bottom: 1px #ddd solid;margin-bottom: 25px;}
+.xmfbConR-1Cp1 span{display: inline-block;width: 45%;line-height:35px;height: 35px;}
+.xmfbConR-1Cp2{line-height:35px;height: 35px;}
+.xmfbConR-1Bri{height: 90px;line-height: 30px;overflow: hidden;font-size: 14px;color: #666;}
+
+.section.footerss .fp-tableCell{display: block!important;}
+
 
 
 
