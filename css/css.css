@@ -8,7 +8,14 @@ em{font-style: normal;}
 /* ---- subbanner    END     --- */
 
 .indexHead{position: fixed;top: 0;left: 0;z-index: 9999;width: 100%;background: #fff;box-shadow: 0 0 10px #aaa;}
-
+.indexRight{position: fixed;right: 0;top: 160px;width: 82px;background: #fff;}
+.indexRight li{height: 100px;display: table;vertical-align: middle;width: 100%;text-align: center;position: relative;}
+.indexRight li:before{content: '';position: absolute;bottom: 0;left: 50%;width: 20px;height: 1px;margin-left: -10px;background: #ddd;}
+.indexRight li a{display: table-cell;vertical-align: middle;}
+.indexRight li:hover{background: #f8b107;}
+.indexRTit{font-size: 14px;color: #333;}
+.indexRight li:hover .indexRTit{color: #fff;}
+.indexRight li:last-child:before{display: none;}
 
 /*  ----  jsjnhCon   begin   -----*/
 
@@ -277,11 +284,11 @@ em{font-style: normal;}
 
 /*indexPart2*/
 
-.indexPart2{padding: 3% 5% 0 5%;}
+.indexPart2{padding:0 5% 0 5%;}
 
 /**********roundabout**********/
-.roundabout_box {height:587px;width:1710px;/*margin:40px auto 20px auto;*/ margin: 0 auto;overflow: hidden;}
-.roundabout-holder{list-style:none;width:1315px;height:425px;margin:0 auto;}
+/*.roundabout_box {height:587px;width:1710px;!*margin:40px auto 20px auto;*! margin: 0 auto;overflow: hidden;}*/
+.roundabout-holder{list-style:none;width:1315px;height:590px;margin:0 auto;}
 .roundabout-moveable-item{font-size:12px!important;height:425px;width:650px;cursor:pointer;background:#f9f9f9;}
 .roundabout-in-focus{cursor:auto;border-left:1px #fff solid;border-right:1px #fff solid;}
 .roundabout-in-focus000:hover{-webkit-box-shadow:0px 0px 20px #787878;-moz-box-shadow:0px 0px 20px #787878;background:#f9f9f9;}
@@ -302,7 +309,7 @@ em{font-style: normal;}
 .roundabout-in-focus .indexPart2ConTop a{display: table-cell;vertical-align: middle;color: #fff;width: 100%;}
 .roundabout-in-focus .indexPart2ConTop a span{display: block;padding-bottom: 25px;text-align: center;position: relative;width: 100%;}
 .roundabout-in-focus .indexPart2ConTop a span:before{content: '';width: 70px;height: 2px;background: #fff;position: absolute;left: 50%;bottom: 0;margin-left: -35px;}
-.roundabout-in-focus .indexPart2ConBotm{background: #fff;padding: 0 55px;height: 426px;display: block;}
+.roundabout-in-focus .indexPart2ConBotm{background: #fff  no-repeat right bottom;padding: 0 55px;height: 426px;display: block;box-shadow: 0 0 10px #aaa;}
 .roundabout-in-focus .indexP2C-BTop{margin-bottom: 60px;}
 .roundabout-in-focus .indexP2C-BTopTit{font-size: 24px;color: #000;height: 70px;line-height: 70px;}
 .roundabout-in-focus .indexP2C-BTopBri{line-height: 34px;height: 136px;overflow: hidden;font-size: 18px;color: #666;overflow: hidden;}
@@ -310,11 +317,9 @@ em{font-style: normal;}
 .roundabout-in-focus .indexP2C-BList a span{display: inline-block;padding-right: 50px;position: relative;}
 .roundabout-in-focus .indexP2C-BList a span:before{content: '';background: url("../images/jtbg_05.png");width: 8px;height: 15px;position: absolute;right: 0;top: 50%;margin-top: -7.5px;}
 
+.indexP2C-B1CTit{font-size: 24px;color: #f8b107;}
+
 /*indexPart2   END  */
-
-
-
-
 .indexPart3{padding: 4% 5% 0 5%;}
 .xmfbCon{}
 .xmfbConLeft{width: 1037px;height: 680px;background: url("../images/map_06.jpg") no-repeat center;float: left;background-size: 100%;position: relative;}
@@ -323,7 +328,9 @@ em{font-style: normal;}
 .xmfbConRight-1{}
 .xmfbCon{min-width: 1715px;}
 .dibiao{width: 48px;height: 62px;background: url("../images/dbbg_16.png") no-repeat center;position: absolute;left: 0;top:0;cursor: pointer;}
-.dibiao:before{content: '';width: 33px;height: 33px;background: url("../images/dbbg1_16.png") no-repeat center;position: absolute;left: 4px;bottom: -10px;}
+.dibiao:before{content: '';width: 33px;height: 33px;background: url("../images/dbbg1_16.png") no-repeat center;position: absolute;left: 4px;bottom: -10px;animation: dbAn 1.5s linear 1.5s infinite alternate;}
+.xmfbConLeft .dibiao:nth-child(odd):before{animation: dbAn 1s linear 1s infinite alternate;}
+.dibiao:hover:before{display: none;}
 .dibiaoNr{width: 40px;text-align: center;height: 50px;line-height: 50px;overflow: hidden;font-size: 12px;color: #ef1717;}
 .xinjiang{left:220px;top: 136px;}
 .xizang{left:240px;top: 300px;}
@@ -375,9 +382,17 @@ em{font-style: normal;}
 
 
 
-a,*:before,*:after,.jylcList li img,.whcyImg img,.whcyRight *,.zstjLbImg img,.moreBtn,.jxImg img,.rsjnhC1B-1,.zcltCon1LbImg img,.lhjnhCon3ListImg img
+a,*:before,*:after,.jylcList li img,.whcyImg img,.whcyRight *,.zstjLbImg img,.moreBtn,.jxImg img,.rsjnhC1B-1,.zcltCon1LbImg img,.lhjnhCon3ListImg img,.dibiao
 {-webkit-transition:all 0.4s ease-in-out;-moz-transition: all 0.4s ease-in-out;-ms-transition: all 0.4s ease-in-out;-o-transition: all 0.4s ease-in-out;transition: all 0.4s ease-in-out;  }
-.jylcList li:hover img,.xfwmConRWrapTop:hover .whcyImg img,.zstjTop .bd ul li:hover .zstjLbImg img,.jxList li:hover .jxImg img,.zcltCon1Lb .bd ul li:hover .zcltCon1LbImg img,.lhjnhCon3List li:hover .lhjnhCon3ListImg img
+.jylcList li:hover img,.xfwmConRWrapTop:hover .whcyImg img,.zstjTop .bd ul li:hover .zstjLbImg img,.jxList li:hover .jxImg img,.zcltCon1Lb .bd ul li:hover .zcltCon1LbImg img,.lhjnhCon3List li:hover .lhjnhCon3ListImg img,.dibiao:hover
 {transform:scale(1.08);-webkit-transform:scale(1.08);-moz-transform:scale(1.08);-o-transform:scale(1.08);-ms-transform:scale(1.08);}
+
+/* 动画 */
+
+@keyframes dbAn
+{
+    from {opacity: 1;}
+    to {opacity: .3;}
+}
 
 
